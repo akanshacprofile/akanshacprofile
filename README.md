@@ -3,6 +3,17 @@
 <!-- Pastel gradient header banner — upload header.svg to your repo root -->
 <img src="header.svg" width="100%" alt="Akansha Chauhan — Technical Program Manager | AI & Cloud Enthusiast"/>
 
+<br>
+
+<div align="center">
+
+> *"Every technical domain I've entered — IBM Sterling, Oracle Cloud, Azure, AI/ML —*
+> *I've mastered through immersion. AI is the next chapter."* ✨
+
+</div>
+
+<br>
+
 </div>
 
 <p align="center">
@@ -19,12 +30,7 @@
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://img.shields.io/badge/📍_Frisco,_Texas-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="Location"/>
-<img src="https://img.shields.io/badge/🎓_UT_Austin_AI_PGP_(In_Progress)-1a1a2e?style=flat-square&labelColor=1a1a2e" alt="Education"/>
-
-<br><br>
-
-**15+ years** turning complex, cross-functional technology programs into on-time, on-budget delivery — from **$22M portfolios** to **40-client platform migrations** to **AI-driven product launches**.
+Seasoned professional turning complex, cross-functional technology programs into on-time, on-budget delivery — from **$22M portfolios** to **40-client platform migrations** to **AI-driven product launches**.
 
 Now on a deliberate mission to merge **enterprise delivery discipline** with **cutting-edge AI/ML** — because the hardest part of AI isn't the technology, it's the execution. And execution is what I do.
 
@@ -38,48 +44,60 @@ Now on a deliberate mission to merge **enterprise delivery discipline** with **c
 </tr>
 </table>
 
-<!-- Colorful quick-fact cards -->
+<!-- At a Glance — structured 2x2 cards with icons, titles, and details -->
 <div align="center">
+
+### ⚡ At a Glance
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀-FF6B6B?style=for-the-badge" alt=""/>
-<br><b>SUPERPOWERS</b>
-<br><sub>Turning chaos into<br>structured delivery</sub>
+<td width="50%">
+
+🚀 **SUPERPOWERS**
+
+Turning chaos into structured delivery. Managing multi-million dollar portfolios, coordinating 25+ engineers, and keeping clients happy for 11 years straight.
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💬-4ECDC4?style=for-the-badge" alt=""/>
-<br><b>ASK ME ABOUT</b>
-<br><sub>Program management,<br>AI strategy, Agile at scale</sub>
+<td width="50%">
+
+💬 **ASK ME ABOUT**
+
+Program & portfolio management, AI strategy for enterprises, Agile at scale, cloud migrations, executive KPI dashboards, and building high-performing teams.
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧠-45B7D1?style=for-the-badge" alt=""/>
-<br><b>CURRENTLY LEARNING</b>
-<br><sub>RAG, LangChain,<br>Agentic AI workflows</sub>
+</tr>
+<tr>
+<td width="50%">
+
+🧠 **CURRENTLY LEARNING**
+
+RAG pipelines & LangChain, Agentic AI workflows, Vector databases (FAISS, Pinecone), LLM fine-tuning (LoRA), MLOps, and GPU cost optimization.
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯-DDA0DD?style=for-the-badge" alt=""/>
-<br><b>2026 GOAL</b>
-<br><sub>Lead enterprise AI/ML<br>programs at scale</sub>
+<td width="50%">
+
+🎯 **2026 GOAL**
+
+Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI with the execution discipline that Fortune 500 clients demand.
+
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- Fun facts as colorful badges -->
+<!-- Fun Facts — structured as a clean list with emoji bullets -->
 <div align="center">
 
 ### 💡 Fun Facts
 
-<img src="https://img.shields.io/badge/Survived_11_years_on_a_single_client_engagement_(and_they_loved_it)_❤️-FF6B6B?style=flat-square" alt=""/>
-<br>
-<img src="https://img.shields.io/badge/My_RFQ/SOW_win_rate_is_95%25_🏆-4ECDC4?style=flat-square" alt=""/>
-<br>
-<img src="https://img.shields.io/badge/Once_saved_a_client_$750K/year_just_by_optimizing_delivery_processes_💰-45B7D1?style=flat-square" alt=""/>
-<br>
-<img src="https://img.shields.io/badge/Migrated_40+_clients_off_legacy_systems_without_breaking_a_sweat_😎-96C93D?style=flat-square" alt=""/>
+| | |
+|:---:|:---|
+| ❤️ | Survived **11 years** on a single client engagement — and they loved it |
+| 🏆 | My RFQ/SOW win rate is **95%** |
+| 💰 | Once saved a client **$750K/year** just by optimizing delivery processes |
+| 😎 | Migrated **40+ clients** off legacy systems without breaking a sweat |
+| 📊 | Built executive KPI dashboards that C-suite leaders actually look forward to reading |
 
 </div>
 
@@ -155,33 +173,7 @@ Now on a deliberate mission to merge **enterprise delivery discipline** with **c
 
 </div>
 
-<br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Career Timeline
-
-```mermaid
-timeline
-    title My Program Management Evolution
-    2006-2008 : 🟢 Cognizant
-              : Order Fulfillment Systems
-              : Offshore Team Management
-    2008-2010 : 🔵 ProKarma
-              : Union Pacific Railroad
-              : Java/JSP Technical Lead
-    2010-2013 : 🟣 CMC Americas
-              : JC Penney
-              : IBM Sterling OMS 8.2→9.2 Upgrade
-    2013-2024 : 🟠 Vyts Inc — USDA
-              : 11-Year Mission-Critical WMS Program
-              : $2-3M Annual Budgets
-              : Platform Migration to Korber HighJump
-    2024-Now  : 🔴 linqd.
-              : Director of Solution Delivery
-              : $20M+ Portfolio
-              : AI-Enabled Product Solutions
-```
-
-<br>
 
 ## 🛠️ Tech & Tools
 
@@ -258,15 +250,32 @@ timeline
 </div>
 
 <br>
-
-<div align="center">
-
-> *"Every technical domain I've entered — IBM Sterling, Oracle Cloud, Azure, AI/ML —*
-> *I've mastered through immersion. AI is the next chapter."* ✨
-
-</div>
-
 <br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Career Timeline
+
+```mermaid
+timeline
+    title My Program Management Evolution
+    2006-2008 : 🟢 Cognizant
+              : Order Fulfillment Systems
+              : Offshore Team Management
+    2008-2010 : 🔵 ProKarma
+              : Union Pacific Railroad
+              : Java/JSP Technical Lead
+    2010-2013 : 🟣 CMC Americas
+              : JC Penney
+              : IBM Sterling OMS 8.2→9.2 Upgrade
+    2013-2024 : 🟠 Vyts Inc — USDA
+              : 11-Year Mission-Critical WMS Program
+              : $2-3M Annual Budgets
+              : Platform Migration to Korber HighJump
+    2024-Now  : 🔴 linqd.
+              : Director of Solution Delivery
+              : $20M+ Portfolio
+              : AI-Enabled Product Solutions
+```
+
 
 ## 📊 GitHub Activity
 
