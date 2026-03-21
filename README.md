@@ -1,17 +1,7 @@
-<!--
-**akanshacprofile/akanshacprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <div align="center">
 
-<!-- 
-  ⚠️ If capsule-render starts working again, replace the header below with:
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96C93D,100:DDA0DD&height=230&section=header&text=Akansha%20Chauhan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Technical%20Program%20Manager%20%7C%20AI%20%26%20Cloud%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
--->
-
-<!-- Header using readme-typing-svg (always works) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Akansha+Chauhan" alt="Header"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=Technical+Program+Manager+%7C+AI+%26+Cloud+Enthusiast;15%2B+Years+Delivering+Enterprise+Programs;Building+the+Bridge+Between+AI+%26+Execution" alt="Subtitle"/>
+<!-- Pastel gradient header banner — upload header.svg to your repo root -->
+<img src="header.svg" width="100%" alt="Akansha Chauhan — Technical Program Manager | AI & Cloud Enthusiast"/>
 
 </div>
 
@@ -316,6 +306,9 @@ timeline
 
 </div>
 
+<br>
 
-
-
+<!-- Pastel gradient footer banner — upload footer.svg to your repo root -->
+<div align="center">
+<img src="footer.svg" width="100%" alt="Footer"/>
+</div>
