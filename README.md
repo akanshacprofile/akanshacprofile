@@ -30,9 +30,9 @@
 <tr>
 <td width="55%" valign="top">
 
-Seasoned professional turning complex, cross-functional technology programs into on-time, on-budget delivery — from **$22M portfolios** to **40-client platform migrations** to **AI-driven product launches**.
+Delivery leader specializing in multi-million dollar enterprise transformations. Managed PMO governance for 2 organizations. Expertise in turning complex, cross-functional technology programs into on-time, on-budget delivery — from **$10+M portfolios** to **40-client platform migrations** to **AI-driven product launches**.
 
-Now on a deliberate mission to merge **enterprise delivery discipline** with **cutting-edge AI/ML** — because the hardest part of AI isn't the technology, it's the execution. And execution is what I do.
+Now on a deliberate mission to merge **enterprise delivery discipline** with **cutting-edge AI/ML** — because the hardest part of AI isn't the technology, it's the execution. And **execution** is what I do.
 
 </td>
 <td width="45%" align="center">
