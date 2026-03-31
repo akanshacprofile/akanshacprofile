@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Pastel gradient header banner — upload header.svg to your repo root -->
-<img src="header.svg" width="100%" alt="Akansha Chauhan — Technical Program Manager | AI & Cloud Enthusiast"/>
+<img src="header.svg" width="100%" alt="Akansha Chauhan — Director PMO & Technical Program Management | AI Delivery Leader"/>
 
 <br>
 
 <div align="center">
 
 > *"Every technical domain I've entered — IBM Sterling, Oracle Cloud, Azure, AI/ML —*
-> *I've mastered through immersion. AI is the next chapter."* ✨
+> *I've mastered through immersion. AI delivery at enterprise scale is the next chapter."* ✨
 
 </div>
 
@@ -30,9 +30,9 @@
 <tr>
 <td width="55%" valign="top">
 
-Delivery leader specializing in multi-million dollar enterprise transformations. Managed PMO governance for 2 organizations. Expertise in turning complex, cross-functional technology programs into on-time, on-budget delivery — from **$10+M portfolios** to **40-client platform migrations** to **AI-driven product launches**.
+**Director PMO & Technical Program Management leader** with 18+ years of experience driving large-scale technology programs, establishing PMO governance frameworks, and managing multi-million-dollar portfolios across platform, data, cloud, and SaaS environments. Software engineering background (Java, SQL, microservices) with deep SDLC fluency.
 
-Now on a deliberate mission to merge **enterprise delivery discipline** with **cutting-edge AI/ML** — because the hardest part of AI isn't the technology, it's the execution. And **execution** is what I do.
+I've built PMO functions from the ground up, standardized project management methodologies organization-wide, and delivered everything from **$15M+ portfolios** to **40-client platform migrations** to **AI-enabled product solutions**. Now merging **enterprise delivery discipline** with **AI/ML program leadership** — because the hardest part of AI isn't the technology, it's the execution. And **execution** is what I do.
 
 </td>
 <td width="45%" align="center">
@@ -55,14 +55,14 @@ Now on a deliberate mission to merge **enterprise delivery discipline** with **c
 
 🚀 **SUPERPOWERS**
 
-Turning chaos into structured delivery. Managing multi-million dollar portfolios, coordinating 25+ engineers, and keeping clients happy for 11 years straight.
+Building PMO governance from scratch, standardizing delivery methodologies, managing $15M+ portfolios, translating business objectives into scalable technical delivery, and keeping C-suite aligned across Product, Data, Technology, Operations, and Finance.
 
 </td>
 <td width="50%">
 
 💬 **ASK ME ABOUT**
 
-Program & portfolio management, AI strategy for enterprises, Agile at scale, cloud migrations, executive KPI dashboards, and building high-performing teams.
+PMO setup & governance, portfolio management, AI delivery strategy, PM methodology standardization, Agile at scale, cloud & platform migrations, executive KPI dashboards, change management, and building high-performing PM teams.
 
 </td>
 </tr>
@@ -71,14 +71,14 @@ Program & portfolio management, AI strategy for enterprises, Agile at scale, clo
 
 🧠 **CURRENTLY LEARNING**
 
-RAG pipelines & LangChain, Agentic AI workflows, Vector databases (FAISS, Pinecone), LLM fine-tuning (LoRA), MLOps, and GPU cost optimization.
+RAG pipelines & LangChain, Agentic AI workflows, Vector databases (FAISS, Pinecone), LLM fine-tuning (LoRA), MLOps, GPU cost optimization — through UT Austin's PGP in AI for Leaders.
 
 </td>
 <td width="50%">
 
 🎯 **2026 GOAL**
 
-Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI with the execution discipline that Fortune 500 clients demand.
+Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI with the PMO governance and execution discipline that Fortune 500 clients demand.
 
 </td>
 </tr>
@@ -93,10 +93,12 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 | | |
 |:---:|:---|
-| ❤️ | Survived **11 years** on a single client engagement — and they loved it |
+| ❤️ | Survived **11 years** on a single government client engagement — and they loved it |
+| 🏗️ | Built **PMO governance frameworks** adopted organization-wide at **2 companies** |
 | 🏆 | My RFQ/SOW win rate is **95%** |
-| 💰 | Once saved a client **$750K/year** just by optimizing delivery processes |
-| 😎 | Migrated **40+ clients** off legacy systems without breaking a sweat |
+| 💰 | Saved a client **$750K/year** by optimizing delivery processes and reducing rework by 25% |
+| 😎 | Migrated **40+ clients** off legacy systems — cutting infrastructure costs by **50%** |
+| 🤖 | Delivered an **AI-enabled predictive model** that improved campaign targeting accuracy by **35%** |
 | 📊 | Built executive KPI dashboards that C-suite leaders actually look forward to reading |
 
 </div>
@@ -107,14 +109,15 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💼_Portfolio_Value-$22M+-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/💼_Portfolio_Value-$20M+-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
 <img src="https://img.shields.io/badge/😊_Client_Satisfaction-98%25-4ECDC4?style=for-the-badge&labelColor=1a1a2e" alt="Satisfaction"/>
 <img src="https://img.shields.io/badge/🎯_Delivery_Accuracy-99%25-45B7D1?style=for-the-badge&labelColor=1a1a2e" alt="Accuracy"/>
 <img src="https://img.shields.io/badge/💰_Annual_Savings-$750K-96C93D?style=for-the-badge&labelColor=1a1a2e" alt="Savings"/>
 <img src="https://img.shields.io/badge/📉_Cost_Reduction-50%25-DDA0DD?style=for-the-badge&labelColor=1a1a2e" alt="Cost"/>
 <img src="https://img.shields.io/badge/🏅_RFQ_Win_Rate-95%25-FFD93D?style=for-the-badge&labelColor=1a1a2e" alt="Win Rate"/>
-<img src="https://img.shields.io/badge/👥_Team_Size-25+_Engineers-FF8C42?style=for-the-badge&labelColor=1a1a2e" alt="Team"/>
+<img src="https://img.shields.io/badge/👥_PM_Team_Size-15+-FF8C42?style=for-the-badge&labelColor=1a1a2e" alt="Team"/>
 <img src="https://img.shields.io/badge/⚡_Faster_Delivery-20%25-00C9A7?style=for-the-badge&labelColor=1a1a2e" alt="Speed"/>
+<img src="https://img.shields.io/badge/🤖_AI_Targeting_Lift-35%25-9B59B6?style=for-the-badge&labelColor=1a1a2e" alt="AI Impact"/>
 
 </div>
 
@@ -123,10 +126,11 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 <td width="50%" valign="top">
 
 ### 🚀 What I Deliver
-- Enterprise programs up to **$22M** in portfolio value
-- Teams of **25+ engineers** across concurrent workstreams
+- **PMO governance frameworks** adopted organization-wide
+- Enterprise programs up to **$20M+** in portfolio value
+- PM teams of **15+ members** — coached, scaled, and performing
 - **98% client satisfaction** and **99% delivery accuracy**
-- **20% faster** delivery through Agile execution
+- **AI-enabled product solutions** — predictive models, scoring, CRM automation
 - RFQs/SOWs with a **95% win rate**
 
 </td>
@@ -134,10 +138,11 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 ### 💡 How I Optimize
 - **50% cost savings** through strategic platform migration
-- **$750K saved annually** through process optimization
+- **$750K saved annually** through delivery process optimization
+- **40% improvement** in delivery consistency via PM standardization
+- **60% reduction** in reporting cycle time with executive dashboards
+- **35% improvement** in campaign targeting via AI predictive model
 - **32% fewer** code conflicts via SonarQube governance
-- **30% reduction** in post-implementation issues
-- **25% improvement** in reporting data accuracy
 
 </td>
 </tr>
@@ -145,14 +150,14 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 <br>
 
-## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="28"> My AI Journey
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="28"> My AI Delivery Journey
 
 <div align="center">
 
 ```
- ╔══════════════════════════════════════════════════════════════════╗
- ║  🧠  Enterprise Program Delivery  ──→  AI Program Leadership   ║
- ╚══════════════════════════════════════════════════════════════════╝
+ ╔══════════════════════════════════════════════════════════════════════════════════╗
+ ║  🏗️ PMO Governance Expert  +  🧠 AI/ML Fluency  =  🚀 AI Delivery Leader     ║
+ ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" alt="Analytics and dashboards animation"/>
@@ -165,46 +170,54 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 | | What | Details |
 |:---:|:---|:---|
-| 🎓 | **PGP in AI for Leaders** | UT Austin — LLMs, NLP, AI strategy, deep learning |
-| 📜 | **AI Certifications** | PMI — GenAI Overview (2024) + Prompt Engineering (2026) |
+| 🎓 | **PGP in AI for Leaders** | UT Austin — LLMs, NLP, AI strategy, deep learning *(In Progress)* |
+| 🏭 | **Production AI Delivery** | Delivered AI-enabled predictive model at linqd. — cross-sell/upsell scoring, CRM automation, 35% targeting lift |
+| 📜 | **AI Certifications** | Anthropic — AI Fluency Framework & Foundations + Claude Code in Action |
+| 📜 | **AI Certifications** | AWS — Generative AI for Executives |
+| 📜 | **AI Certifications** | PMI — Prompt Engineering for PMs (2026) + GenAI Overview for PMs (2024) |
 | 🔬 | **Hands-On Building** | RAG pipelines with LangChain, vector databases (FAISS, Pinecone), LLM fine-tuning (LoRA) |
-| 🏭 | **Production AI** | AI-enabled solutions at linqd. — ML models, scoring, analytics, CRM automation |
-| 📚 | **Studying Now** | Agentic AI workflows, MLOps, LLM evaluation, GPU cost optimization |
+| 📚 | **Studying Now** | Agentic AI workflows, MLOps, LLM evaluation frameworks, GPU cost optimization |
+| ✍️ | **Sharing Knowledge** | Regular LinkedIn posts on AI + PM intersection; newsletter in progress: *"How AI is Making You More Relevant"* |
 
 </div>
 
-
+<br>
 
 ## 🛠️ Tech & Tools
 
 <div align="center">
 
+#### 🏗️ PMO & Program Delivery
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Smartsheet](https://img.shields.io/badge/Smartsheet-0B8BF5?style=for-the-badge&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Workfront](https://img.shields.io/badge/Workfront-FF6B6B?style=for-the-badge&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft&logoColor=white)
+
 #### ☁️ Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-#### 🤖 AI/ML *(Learning & Building)*
+#### 🤖 AI/ML & Productivity Tools
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD835?style=for-the-badge&logoColor=black)
+![Dokie](https://img.shields.io/badge/Dokie-6C63FF?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector%20DBs-4ECDC4?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-
-#### 📋 Program & Delivery Management
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Smartsheet](https://img.shields.io/badge/Smartsheet-0B8BF5?style=for-the-badge&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### 💻 Development & Data
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -215,6 +228,8 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Cognos BI](https://img.shields.io/badge/Cognos%20BI-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
@@ -226,11 +241,15 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 | | Year | Certification | Issuer |
 |:---:|:---:|:---|:---|
+| 🎓 | *In Progress* | **PGP in Artificial Intelligence for Leaders** | UT Austin |
 | 🤖 | 2026 | Prompt Engineering for Project Managers | PMI |
-| 🧠 | 2024 | Generative AI Overview for Project Managers | PMI |
-| ⚡ | 2023 | Agile Project Management | — |
+| 🧠 | 2025 | AI Fluency Framework & Foundations | Anthropic |
+| 🧠 | 2025 | Claude Code in Action | Anthropic |
+| ☁️ | 2025 | Generative AI for Executives | AWS |
+| 🤖 | 2024 | Generative AI Overview for Project Managers | PMI |
+| 📋 | 2023 | Asana Administrator | Asana |
+| ⚡ | 2023 | Agile Project Management | Atlassian |
 | 🏅 | 2023 | Professional Scrum Master™ I (PSM I) | Scrum.org |
-| 🎓 | *In Progress* | PGP in Artificial Intelligence for Leaders | UT Austin |
 
 </div>
 
@@ -242,9 +261,11 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 | | Focus | What's Happening |
 |:---:|:---|:---|
-| 📚 | **Studying** | RAG architectures, Agentic AI workflows, Vector databases |
+| 📚 | **Studying** | RAG architectures, Agentic AI workflows, Vector databases — UT Austin PGP |
 | 🔧 | **Building** | LLM-powered tools using LangChain & Python |
 | 📊 | **Exploring** | MLOps, LLM evaluation frameworks, GPU cost optimization |
+| 🤖 | **Daily AI Tools** | Claude (brainstorming & KPI prompts), NotebookLM (SOW analysis & infographics), Dokie (presentations), KNIME (data analysis) |
+| ✍️ | **Sharing** | Regular LinkedIn posts on AI + PM; building newsletter: *"How AI is Making You More Relevant"* |
 | 🎯 | **Goal** | Lead enterprise AI/ML program delivery at scale |
 
 </div>
@@ -256,26 +277,36 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 ```mermaid
 timeline
-    title My Program Management Evolution
+    title From Software Engineer → PMO Leader → AI Delivery Expert
     2006-2008 : 🟢 Cognizant
-              : Order Fulfillment Systems
+              : Cabela's, United Healthcare
+              : Order Fulfillment Systems (Yantra WMS/OMS)
               : Offshore Team Management
     2008-2010 : 🔵 ProKarma
               : Union Pacific Railroad
               : Java/JSP Technical Lead
+              : 99% Uptime
     2010-2013 : 🟣 CMC Americas
               : JC Penney
               : IBM Sterling OMS 8.2→9.2 Upgrade
-    2013-2024 : 🟠 Vyts Inc — USDA
+              : Enterprise Fulfillment UI
+    2013-2023 : 🟠 Vyts Inc — USDA
               : 11-Year Mission-Critical WMS Program
-              : $2-3M Annual Budgets
+              : $2-3M Annual Budgets | 15-Member Teams
               : Platform Migration to Korber HighJump
-    2024-Now  : 🔴 linqd.
+              : 99% Delivery & Financial Accuracy
+    2024-2026 : 🔴 linqd.
               : Director of Solution Delivery
-              : $20M+ Portfolio
-              : AI-Enabled Product Solutions
+              : $15M+ Portfolio | PMO Transformation
+              : 40+ Client Platform Migrations
+              : AI-Enabled Predictive Model (35% Targeting Lift)
+    2025-Now  : 🟡 AI Leadership Journey
+              : UT Austin — PGP in AI for Leaders
+              : Anthropic, AWS, PMI AI Certifications
+              : Building RAG Pipelines & LLM Tools
 ```
 
+<br>
 
 ## 📊 GitHub Activity
 
@@ -306,7 +337,7 @@ timeline
 
 ### 🤝 Let's Connect & Collaborate
 
-**Open to collaboration on AI/ML projects, enterprise delivery tools, and program management automation.**
+**Open to collaboration on AI/ML delivery, enterprise program management tools, PMO automation, and AI-powered productivity workflows.**
 
 <br>
 
