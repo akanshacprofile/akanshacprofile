@@ -7,8 +7,9 @@
 
 <div align="center">
 
-> *"Every technical domain I've entered — IBM Sterling, Oracle Cloud, Azure, AI/ML —*
-> *I've mastered through immersion. AI delivery at enterprise scale is the next chapter."* ✨
+> *"Every technical domain I've entered — Programming languages, IBM Sterling COTS, Cloud Computing, Azure, AWS, AI/ML —*
+> *I've mastered through immersion.  
+> ✨ AI delivery at enterprise scale is the next chapter."* ✨
 
 </div>
 
@@ -30,9 +31,9 @@
 <tr>
 <td width="55%" valign="top">
 
-**Director PMO & Technical Program Management leader** with 18+ years of experience driving large-scale technology programs, establishing PMO governance frameworks, and managing multi-million-dollar portfolios across platform, data, cloud, and SaaS environments. Software engineering background (Java, SQL, microservices) with deep SDLC fluency.
+**Director PMO & Technical Program Management leader** with experience in driving large-scale technology programs, establishing PMO governance frameworks, and managing multi-million-dollar portfolios across platform, data, cloud, and SaaS environments. Software engineering background (Java, SQL, microservices) with deep SDLC fluency.
 
-I've built PMO functions from the ground up, standardized project management methodologies organization-wide, and delivered everything from **$15M+ portfolios** to **40-client platform migrations** to **AI-enabled product solutions**. Now merging **enterprise delivery discipline** with **AI/ML program leadership** — because the hardest part of AI isn't the technology, it's the execution. And **execution** is what I do.
+I've built PMO functions from the ground up, standardized project management methodologies organization-wide, and delivered everything from **$15M+ portfolios** to **client platform migrations** to **AI-enabled product solutions**. Now merging **enterprise delivery discipline** with **AI/ML program leadership** — because the hardest part of AI isn't the technology, it's the execution. And **execution** is what I do.
 
 </td>
 <td width="45%" align="center">
@@ -71,14 +72,14 @@ PMO setup & governance, portfolio management, AI delivery strategy, PM methodolo
 
 🧠 **CURRENTLY LEARNING**
 
-RAG pipelines & LangChain, Agentic AI workflows, Vector databases (FAISS, Pinecone), LLM fine-tuning (LoRA), MLOps, GPU cost optimization — through UT Austin's PGP in AI for Leaders.
+RAG pipelines, Agentic AI workflows, LLM fine-tuning, MLOps — through UT Austin's PGP in AI for Leaders.
 
 </td>
 <td width="50%">
 
 🎯 **2026 GOAL**
 
-Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI with the PMO governance and execution discipline that Fortune 500 clients demand.
+Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI with the PMO governance and execution discipline that Fortune 500 clients and digitally transformed startups demand.
 
 </td>
 </tr>
@@ -97,8 +98,7 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 | 🏗️ | Built **PMO governance frameworks** adopted organization-wide at **2 companies** |
 | 🏆 | My RFQ/SOW win rate is **95%** |
 | 💰 | Saved a client **$750K/year** by optimizing delivery processes and reducing rework by 25% |
-| 😎 | Migrated **40+ clients** off legacy systems — cutting infrastructure costs by **50%** |
-| 🤖 | Delivered an **AI-enabled predictive model** that improved campaign targeting accuracy by **35%** |
+| 😎 | Migrated clients off legacy systems — cutting infrastructure costs by **50%** |
 | 📊 | Built executive KPI dashboards that C-suite leaders actually look forward to reading |
 
 </div>
@@ -109,7 +109,7 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💼_Portfolio_Value-$20M+-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/💼_Portfolio_Value-$15M+-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
 <img src="https://img.shields.io/badge/😊_Client_Satisfaction-98%25-4ECDC4?style=for-the-badge&labelColor=1a1a2e" alt="Satisfaction"/>
 <img src="https://img.shields.io/badge/🎯_Delivery_Accuracy-99%25-45B7D1?style=for-the-badge&labelColor=1a1a2e" alt="Accuracy"/>
 <img src="https://img.shields.io/badge/💰_Annual_Savings-$750K-96C93D?style=for-the-badge&labelColor=1a1a2e" alt="Savings"/>
@@ -127,21 +127,20 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 ### 🚀 What I Deliver
 - **PMO governance frameworks** adopted organization-wide
-- Enterprise programs up to **$20M+** in portfolio value
+- Enterprise programs up to **$15M+** in portfolio value
 - PM teams of **15+ members** — coached, scaled, and performing
 - **98% client satisfaction** and **99% delivery accuracy**
-- **AI-enabled product solutions** — predictive models, scoring, CRM automation
+- **AI-enabled product solutions** — predictive models, scoring, automation
 - RFQs/SOWs with a **95% win rate**
 
 </td>
 <td width="50%" valign="top">
 
 ### 💡 How I Optimize
-- **50% cost savings** through strategic platform migration
-- **$750K saved annually** through delivery process optimization
+- **50% cost savings** through delivery process optimization
+- **$750K saved annually** through strategic platform migration
 - **40% improvement** in delivery consistency via PM standardization
 - **60% reduction** in reporting cycle time with executive dashboards
-- **35% improvement** in campaign targeting via AI predictive model
 - **32% fewer** code conflicts via SonarQube governance
 
 </td>
@@ -171,12 +170,11 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 | | What | Details |
 |:---:|:---|:---|
 | 🎓 | **PGP in AI for Leaders** | UT Austin — LLMs, NLP, AI strategy, deep learning *(In Progress)* |
-| 🏭 | **Production AI Delivery** | Delivered AI-enabled predictive model at linqd. — cross-sell/upsell scoring, CRM automation, 35% targeting lift |
 | 📜 | **AI Certifications** | Anthropic — AI Fluency Framework & Foundations + Claude Code in Action |
 | 📜 | **AI Certifications** | AWS — Generative AI for Executives |
 | 📜 | **AI Certifications** | PMI — Prompt Engineering for PMs (2026) + GenAI Overview for PMs (2024) |
-| 🔬 | **Hands-On Building** | RAG pipelines with LangChain, vector databases (FAISS, Pinecone), LLM fine-tuning (LoRA) |
-| 📚 | **Studying Now** | Agentic AI workflows, MLOps, LLM evaluation frameworks, GPU cost optimization |
+| 🔬 | **Hands-On Building** | RAG pipelines, LLM fine-tuning |
+| 📚 | **Studying Now** | Agentic AI workflows, MLOps, LLM evaluation frameworks |
 | ✍️ | **Sharing Knowledge** | Regular LinkedIn posts on AI + PM intersection; newsletter in progress: *"How AI is Making You More Relevant"* |
 
 </div>
@@ -207,24 +205,18 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 
 #### 🤖 AI/ML & Productivity Tools
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FDD835?style=for-the-badge&logoColor=black)
 ![Dokie](https://img.shields.io/badge/Dokie-6C63FF?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=for-the-badge&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector%20DBs-4ECDC4?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-3B5998?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
 #### 💻 Development & Data
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -262,49 +254,12 @@ Lead enterprise AI/ML program delivery at scale — bridging cutting-edge AI wit
 | | Focus | What's Happening |
 |:---:|:---|:---|
 | 📚 | **Studying** | RAG architectures, Agentic AI workflows, Vector databases — UT Austin PGP |
-| 🔧 | **Building** | LLM-powered tools using LangChain & Python |
 | 📊 | **Exploring** | MLOps, LLM evaluation frameworks, GPU cost optimization |
 | 🤖 | **Daily AI Tools** | Claude (brainstorming & KPI prompts), NotebookLM (SOW analysis & infographics), Dokie (presentations), KNIME (data analysis) |
 | ✍️ | **Sharing** | Regular LinkedIn posts on AI + PM; building newsletter: *"How AI is Making You More Relevant"* |
 | 🎯 | **Goal** | Lead enterprise AI/ML program delivery at scale |
 
 </div>
-
-<br>
-<br>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Career Timeline
-
-```mermaid
-timeline
-    title From Software Engineer → PMO Leader → AI Delivery Expert
-    2006-2008 : 🟢 Cognizant
-              : Cabela's, United Healthcare
-              : Order Fulfillment Systems (Yantra WMS/OMS)
-              : Offshore Team Management
-    2008-2010 : 🔵 ProKarma
-              : Union Pacific Railroad
-              : Java/JSP Technical Lead
-              : 99% Uptime
-    2010-2013 : 🟣 CMC Americas
-              : JC Penney
-              : IBM Sterling OMS 8.2→9.2 Upgrade
-              : Enterprise Fulfillment UI
-    2013-2023 : 🟠 Vyts Inc — USDA
-              : 11-Year Mission-Critical WMS Program
-              : $2-3M Annual Budgets | 15-Member Teams
-              : Platform Migration to Korber HighJump
-              : 99% Delivery & Financial Accuracy
-    2024-2026 : 🔴 linqd.
-              : Director of Solution Delivery
-              : $15M+ Portfolio | PMO Transformation
-              : 40+ Client Platform Migrations
-              : AI-Enabled Predictive Model (35% Targeting Lift)
-    2025-Now  : 🟡 AI Leadership Journey
-              : UT Austin — PGP in AI for Leaders
-              : Anthropic, AWS, PMI AI Certifications
-              : Building RAG Pipelines & LLM Tools
-```
 
 <br>
 
