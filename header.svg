@@ -13,7 +13,6 @@
   <path d="M0,195 C300,220 600,175 900,210 C1050,220 1150,200 1200,210 L1200,220 L0,220 Z" fill="white" opacity="0.5"/>
   <path d="M0,210 C200,220 500,195 800,215 C1000,220 1100,210 1200,215 L1200,220 L0,220 Z" fill="white"/>
   <text x="600" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="white" text-anchor="middle" filter="url(#shadow)">Akansha Chauhan</text>
-  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400" fill="white" text-anchor="middle" opacity="0.9">Director, Technical Program Management PMO | AI-Driven Strategy and Solution | Software Engineer Turned Strategic Leader</text>
   <text x="600" y="118" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#F0F0F0">Director, Technical Program Management PMO | AI-Driven Strategy and Solution</text>
   <defs>
     <filter id="shadow" x="-2%" y="-2%" width="104%" height="104%">
